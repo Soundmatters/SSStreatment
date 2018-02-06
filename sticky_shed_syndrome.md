@@ -1,6 +1,6 @@
 ## Treatment for 1/4-inch audio tape with "sticky-shed" syndrome. 
 
-### Overview. 
+## Overview. 
 
 The following workflow is a treatment to stabilize 1/4-inch audio tape with "stick-shed" syndrome.  It follows the procedure described in the Ampex patent (US 6797072 B1),
 *Process for restoring magnetic recording tape damaged by “sticky shed” syndrome*.  
@@ -11,7 +11,7 @@ The stabilization is temporary, and so tapes should be reformatted soon after th
 
 LEM 1152 5-tray food dehydrator, or comparable convection oven 
 
-### Workflow. 
+## Workflow. 
 
 1)  Load the tapes into a room-temperature oven.
 
